@@ -4,6 +4,10 @@ int add(int a,int b)
 {
 	return a + b;
 }
+void test()
+{
+	cout << "test" << endl;
+}
 int main(){
   int num,a,b,c;
   for(num=100;num<1000;num++){
